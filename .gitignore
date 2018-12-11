@@ -1,0 +1,5 @@
+node_modules/
+*.log
+public/
+test-compiled.js
+test-compiled.js.map
